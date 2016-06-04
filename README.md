@@ -5,9 +5,12 @@ para conocer bien el desarrollo de Pipeco_productions es  imprescindible comer p
 
 ##**Perrony**
  
- ###[Es][another-link]
+###[Es][another-link]
  
- * _flojo,_ *bruto, *peludo, *y perrony
+ * _flojo,_ 
+ *bruto, 
+ *peludo, 
+ *y perrony
  
  
  [another-link]: www.google.com
