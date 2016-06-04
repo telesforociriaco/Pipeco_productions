@@ -8,9 +8,9 @@ para conocer bien el desarrollo de Pipeco_productions es  imprescindible comer p
 ###[Es][another-link]
  
  * _flojo,_ 
- *bruto, 
- *peludo, 
- *y perrony
+ * bruto, 
+ * peludo, 
+ * y perrony
  
  
  [another-link]: www.google.com
