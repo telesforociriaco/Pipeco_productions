@@ -5,7 +5,7 @@ para conocer bien el desarrollo de Pipeco_productions es  imprescindible comer p
 
 ##**Perrony**
  
-###Hola[Es](www.google.com)
+###Hola[Es]
  
  * _flojo,_ 
  * bruto, 
@@ -16,3 +16,4 @@ para conocer bien el desarrollo de Pipeco_productions es  imprescindible comer p
  www.google.com
  
  
+[Es]: http://www.google.com/ "sal de aki"
